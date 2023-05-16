@@ -1,0 +1,18 @@
+id: IDB17BA34
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:29:36.166677
+last_modified: 2023-01-04 11:29:36.166697
+source_metadata:
+  collections:
+  - Apang Tertön Series
+  - Works of Tibetan Masters
+bases:
+  3A4E:
+    title: A Prayer for Auspiciousness
+    base_file: 3A4E.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
